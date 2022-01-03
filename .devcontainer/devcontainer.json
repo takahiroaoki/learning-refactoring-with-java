@@ -1,0 +1,10 @@
+{
+	"runArgs": ["--init"],
+	"build": {
+		"dockerfile": "../Dockerfile",
+		"context": "..",
+	},
+	"extensions": [
+		"vscjava.vscode-java-pack"
+	],
+}
