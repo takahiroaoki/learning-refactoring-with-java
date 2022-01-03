@@ -13,6 +13,18 @@
 - [Docker Desktop for Windows](https://www.docker.com/products/docker-desktop) 4.2.0
 - VSCode + Remote Development 0.21.0（拡張機能）
 
+## ディレクトリ構成
+
+主要なディレクトリ構成を以下に示します。
+
+refactoring-with-java
+- demo/
+  - src/
+    - main/java/com/example/: 各章ごとのコードが入っているディレクトリ
+    - test/java/com/example/: 各章ごとのテストコードが入っているディレクトリ
+- memo/: 書籍の章ごとのメモが入っているディレクトリ
+- Dockerfile
+
 ## 動作確認
 
 動作確認をする際は以下の手順で行ってください。
