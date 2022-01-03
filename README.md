@@ -29,9 +29,8 @@ refactoring-with-java
 動作確認をする際は以下の手順で行ってください。
 
 1. Docker Desktopを起動する。
-2. refactoring-with-javaフォルダ（つまりこのプロジェクト）をRemote Development拡張機能をインストールしたVSCodeで開く
+2. refactoring-with-javaフォルダ（つまりこのプロジェクト）をRemote Development拡張機能をインストールしたVSCodeで開く。
 3. コマンドパレットから"Reopen in Container"を実行する。
-ださい。
 4. 各パッケージのMain.javaファイルを実行する。
 
 ## JUnitについて
