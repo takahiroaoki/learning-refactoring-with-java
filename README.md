@@ -23,7 +23,6 @@ refactoring-with-java
     - main/java/com/example/: 各章ごとのコードが入っているディレクトリ
     - test/java/com/example/: 各章ごとのテストコードが入っているディレクトリ
 - memo/: 書籍の章ごとのメモが入っているディレクトリ
-- Dockerfile
 
 ## 動作確認
 
