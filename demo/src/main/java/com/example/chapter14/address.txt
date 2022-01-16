@@ -1,0 +1,5 @@
+#
+#Sun Jan 16 08:45:02 UTC 2022
+Tomura=tomura@example.com
+Hanako\ Sato=hanako@example.com
+Hiroshi\ Yuki=hyuki@example.com
